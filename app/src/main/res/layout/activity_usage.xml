@@ -813,65 +813,6 @@
                         android:orientation="horizontal"
                         android:paddingStart="@dimen/lo_16dpGrid"
                         android:paddingEnd="@dimen/lo_16dpGrid">
-
-                        <ImageView
-                            android:id="@+id/iv_about_facebook"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_marginTop="@dimen/lo_8dpGrid"
-                            android:layout_marginEnd="@dimen/lo_8dpGrid"
-                            android:layout_marginBottom="@dimen/lo_8dpGrid"
-                            android:background="@drawable/facebook" />
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_vk"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid"
-                            android:background="@drawable/vk" />
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_youtube"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid"
-                            android:background="@drawable/youtube" />
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_twitter"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid"
-                            android:background="@drawable/twitter" />
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_instagram"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_marginStart="@dimen/lo_8dpGrid"
-                            android:layout_marginTop="@dimen/lo_8dpGrid"
-                            android:layout_marginBottom="@dimen/lo_8dpGrid"
-                            android:background="@drawable/instagram" />
                     </LinearLayout>
                 </HorizontalScrollView>
 
@@ -924,65 +865,6 @@
                         android:orientation="horizontal"
                         android:paddingStart="@dimen/lo_16dpGrid"
                         android:paddingEnd="@dimen/lo_16dpGrid">
-
-                        <ImageView
-                            android:id="@+id/iv_about_playstore"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_marginTop="@dimen/lo_8dpGrid"
-                            android:layout_marginEnd="@dimen/lo_8dpGrid"
-                            android:layout_marginBottom="@dimen/lo_8dpGrid"
-                            android:background="@drawable/ic_google_play" />
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_amazon"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid"
-                            android:background="@drawable/ic_amazon_apps" />
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_uptodown"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid"
-                            android:background="@drawable/ic_uptodown" />
-
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_aptoid"
-                            android:layout_width="236dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid"
-                            android:background="@drawable/ic_aptoid" />
-
-                        <View
-                            android:layout_width="16dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid" />
-
-                        <ImageView
-                            android:id="@+id/iv_about_yandex"
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:layout_margin="@dimen/lo_8dpGrid"
-                            android:background="@drawable/yandex" />
-
                     </LinearLayout>
                 </HorizontalScrollView>
 
